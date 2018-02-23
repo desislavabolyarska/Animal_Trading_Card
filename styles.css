@@ -1,0 +1,54 @@
+body{
+  font-family: "Courgette";
+  font-size: 18px;
+  border:black solid;
+  width: 350px;
+  box-shadow: 5px 10px #888;
+}
+
+.description{
+  font-style: italic;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.info{
+  border: black solid;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+img{
+  width:300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#fav-animal{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQjvPjIOuGnHeLSwhRWtH96bXs9zflwHnnusz1A6Bz7zASUec);
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+ul{
+  list-style-type: none;
+}
